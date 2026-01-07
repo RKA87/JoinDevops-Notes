@@ -122,3 +122,5 @@ connect
 Next topic
 ===========
 Linux commands
+
+sonethig architecture something
